@@ -44,7 +44,7 @@ After trade execution:
 - The trader returns funds with profit or loss.
 - Profits are split: 
   - 40% goes to a vesting contract for long-term member rewards.
-  - 40% goes as a trader’s share.
+  - 40% of the remnant 60% from overall profit goes as a trader’s share.
   - Remaining profits are distributed to guild members proportional to stakes.
 - Losses reduce member stakes and the pool accordingly, with 40% attributed to the trader's personal loss.
 
